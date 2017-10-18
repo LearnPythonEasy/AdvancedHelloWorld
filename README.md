@@ -1,4 +1,4 @@
-# Advanced Hello WOrld
+# Advanced Hello World ![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg) ![python build](https://img.shields.io/pypi/pyversions/Django.svg) ![license gnu](https://img.shields.io/badge/license-GNU-blue.svg) [![HitCount](http://hits.dwyl.io/LearnPythonEasy/AdvancedHelloWorld.svg)](http://hits.dwyl.io/LearnPythonEasy/AdvancedHelloWorld)
 
 ## Introduction
 
