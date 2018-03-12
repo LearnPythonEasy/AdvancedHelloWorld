@@ -40,3 +40,5 @@ while True:
     else:
         print ('That is not an option.')
 
+# © 2018 LearnPythonEasy
+# Sebastian T.
